@@ -1,5 +1,4 @@
 # TextBasedGame.py
-# Kene Ume-ezeoke
 
 
 # Function to display game instructions and commands

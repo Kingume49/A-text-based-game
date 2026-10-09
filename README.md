@@ -1,6 +1,6 @@
 # Haunted Mansion Text Adventure Game
 
-**Author:** Kenechukwu Ume-ezeoke
+**Author:** Kingume49
 
 ## Description
 
